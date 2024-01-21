@@ -1,0 +1,19 @@
+{
+  "name": "semantic-release-node",
+  "version": "0.1.0",
+  "description": "Eample node app with semantic release",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyattmunson/semantic-release-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyattmunson/semantic-release-node/issues"
+  },
+  "homepage": "https://github.com/wyattmunson/semantic-release-node#readme"
+}
